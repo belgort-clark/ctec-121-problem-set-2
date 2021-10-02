@@ -1,7 +1,7 @@
 """
 CTEC 121
 Date: mm/dd/yyyy
-your name
+Your Name
 Assignment Name: assignment/lab name
 Description: assignment/lab description
 """
