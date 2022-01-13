@@ -2,19 +2,19 @@
 CTEC 121
 Date: mm/dd/yyyy
 Your Name
-Assignment Name: assignment/lab name
-Description: assignment/lab description
+Assignment Name: Problem Set No. 2
+Description: Simple coding problems to reinforce topics covered in Modules 0, 1, 2 and 3
 """
 
-""" IPO template - use to document functions/methods
-Input(s): list/description
-Process: description of what function does
-Output: return value and description
+""" IPO template
+Input(s): 
+Process: 
+Output: 
 """
 
 
 def main():
-    # code here
+    # Your code goes here. You must remove this line
 
 
 main()
